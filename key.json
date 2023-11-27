@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "publir-analytics",
+  "private_key_id": "1e386fa5c280fdf86fae1d20dc55bbc590253be9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCdz4PIaef91vXJ\nOPQamV8GLvDRWNIm12Wj/dgq5NnU6zoI72L0f3NS3Ua5ju6TlCycIzGjUi0pZl4f\nESdxnYx3gVpWASsHlFyfEXeZGqxWSDagQvaqj9udEZKHNOeUNDJ0oY3CG+nttY2G\naGUlM4jSZ6HgD7gr8C4l3hcXJSWm22Y9ziIHxoVCoLitbd7pjJQP+aQnhjfSv6CL\nqx7eNpwVj3ifLEP035Sm/wpD0b1rR7SKrtVY0Rtalp729/SHG7n9aDZV041oAO7l\neyjqcexOJ+b5hUrePYplDpSVBe1i7FzGfj60FqSRX4Wk8cz5qGa3GgCy26bzzWza\nzs+80MkBAgMBAAECggEAEco+9OzbdkYxVwnQmt8HU08fXrpAlphZoO8Q22UJGXOb\nCz7RTPbBLWo8etaeFozxqnhdNCgjZzNfEOmCJNC58Q7n/CINk8Ep39S8Qso6+08Q\nuWhTHk8xVreQaSWRpadsuLEtpeA3stBwr+I85MC2f+Gm4fdjr7BXw3UR7U4GvJR5\n0+K5xwgKiE/ftfPsE0HNyED6+6/8Bdqjz/nrNtKSmE/2eUQ1ZMZr2XDIUdkHlFp+\nVbppUoeJPDAOD79D/7Ooq17RUNmmGJupfdQw9gSsvSVOtpRIwwiW+3OoPrsgjsz+\nRouwyjG+Y7o8qK5rKcYlQOvcD96SFBiZCXp6V6+9QQKBgQDLqV8u/H4QOhICGuW/\nK2GLciqm5wmRay3PDW9xuvg7xlC5ST5uSu+mAoVaikqw+b2IUp0QD6ot87tMvTP2\nm1Fe6DxaOfWyB54inJDboqFpwBpfnUjXv2ceLNkMmLtDxKDQ6vF1dhTQiKspTYEV\nONzIMymrz5EN7nYZw5XfnuPThQKBgQDGXap9uZUwaaKIWq/4r2k6/yac5krDTxVL\ngwY0HIde9k/WcJYlMByKb+xADtw9dgq0CtvjDYXg7+P5qkPubuu/DJiAOfq5EDZf\nSoUp3DOnf7SwZAhblOFw7j3/Gfl3PRSfRy0sRzSs5Z3BSDnWGbu2qieZpPelQ56q\nejOtX7CiTQKBgAVcTuoQsUzCColNpfBzNt0RwzejaygNtyX1B5LpxfDk1mkaGW+T\nv10SQepRK4ge+rMk4YdzshoFiU+Kx1xdWDX0TOpfDi2Cb9IfZtyxGiiLauZLYIh1\nPESaD5h6SKuO+GCnXnWmBwQ6JK8woA4r8fu/BQDFtN62ARvKfx5ks0B1AoGAdb3b\nGM0zFI1e//h0QvQ7Td1tGexHrC4gwbV/1Sap41/oe6xQMrqf9jwAyvUHHSQXrk5T\nvi2kraM2elbqA3irTbc4PcQsYfSRkXY2HGar8lwG8DwwCcwRFGsVOXo9bN1AhFpH\nIeUSCx4vyS4Jxl934DCXWMdmhx3f6+ilC9+khHECgYBf+i7LmYOBECEny2i1xvi2\n5G+gvJGPozs/T5VdB04r0RTNhyEy8b9O5ChVz+DNpLvf7TBwSTp3chPsogVSSDZJ\naUwwus/xVFDyRONYfqL2H1nDgUOJk5lHe81CnTiEiVp7MBMoU5/ikphafTdGpjEg\n76Q7DT+M8nQnIaxi2zs4NA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "publiradmanager@publir-analytics.iam.gserviceaccount.com",
+  "client_id": "105928562920694256456",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/publiradmanager%40publir-analytics.iam.gserviceaccount.com"
+}

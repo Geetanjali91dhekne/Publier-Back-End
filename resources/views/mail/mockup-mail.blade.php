@@ -1,0 +1,3 @@
+Hello,
+
+<p>{{ $content }}</p>
